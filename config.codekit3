@@ -209,7 +209,7 @@
 	"\/js\/jquery.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/docs\/js\/jquery.js",
 		"oF": 0,
 		"sC": 0,
@@ -227,7 +227,7 @@
 	"\/js\/semantic.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/docs\/js\/semantic.js",
 		"oF": 0,
 		"sC": 0,
@@ -2017,7 +2017,7 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
-		"minifyOutput": 1,
+		"minifyOutput": 0,
 		"syntaxCheckerStyle": 0,
 		"transpilerStyle": 0
 		},
